@@ -1,11 +1,6 @@
-<h1>Trady</h1>
+## **Trady**  
+Empower your trading journey with AI-driven insights. Trady connects traders and creators, enabling seamless access to AI-generated trading plans. Whether you're crafting strategies or exploring new opportunities, Trady helps you make informed decisions effortlessly.  
 
-<p align="left">
-Harness the power of AI to grow your wealth effortlessly. Trady provides smart, intuitive tools for seamless financial management, empowering you to focus on what matters most while our AI does the heavy lifting.
-</p>
-
-<h2>Learn About Trady</h2>
-<ul>
-    <li>Dive into our AI-powered platform with <a href="https://trady.finance/docs">Trady Docs</a> 📚</li>
-    <li>Stay updated with the latest insights on our <a href="https://blog.trady.finance/blog">Trady Blog</a> 📝</li>
-</ul>
+### **Learn About Trady**  
+- 📚 Explore our platform with **Trady Docs** (SOON) 
+- 📝 Stay updated with insights on the **Trady Blog** (SOON) 
