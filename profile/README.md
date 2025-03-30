@@ -1,5 +1,5 @@
 ## **Trady**  
-Empower your trading journey with AI-driven insights. Trady connects traders and creators, enabling seamless access to AI-generated trading plans. Whether you're crafting strategies or exploring new opportunities, Trady helps you make informed decisions effortlessly.  
+AI-powered prompt marketplace where users can access and utilize AI-generated prompts for trading, coding, design, research, and more. Creators can publish their prompts, while users subscribe for full platform access. The ecosystem is powered by $TRADY, the native token used for payments, rewards, and incentives.
 
 ### **Learn About Trady**  
 - 📚 Explore our platform with **Trady Docs** (SOON) 
